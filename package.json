@@ -1,0 +1,15 @@
+{
+  "name": "tauri-example",
+  "version": "1.0.0",
+  "description": "Trying out tauri for the first time",
+  "main": "index.js",
+  "author": "Cameron Gorrie <sastraxi@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "tauri": "^0.12.0"
+  }
+}
