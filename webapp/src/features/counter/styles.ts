@@ -48,5 +48,5 @@ export const Textbox = styled.input`
   width: 64px;
   text-align: center;
   margin-right: 8px;
-  background-color: #feffff;
+  background-color: #feffff; /* TODO: report bug in emotion */
 `
