@@ -1,3 +1,3 @@
 node_modules/
-tauri/target/
-tauri/opentok/libopentok_linux_llvm_x86_64/
+src-tauri/target/
+src-tauri/opentok/libopentok_linux_llvm_x86_64/
