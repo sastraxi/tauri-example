@@ -1,7 +1,7 @@
 {
   "build": {
-    "distDir": "../assets",
-    "devPath": "../assets",
+    "distDir": "../src-svelte/build",
+    "devPath": "http://localhost:5000",
     "beforeDevCommand": "",
     "beforeBuildCommand": ""
   },

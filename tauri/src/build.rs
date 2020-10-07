@@ -15,7 +15,7 @@ fn main() {
     } else {
         panic!("No Icon.ico found. Please add one or check the path");
     }
-    panic!("Windows opentok library not built yet; exiting. :(")
+    panic!("TODO: implement bindgen for windows")
 }
 
 #[cfg(not(windows))]
